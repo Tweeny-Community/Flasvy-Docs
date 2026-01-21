@@ -1,3 +1,3 @@
 # Summary
 
-* [Inicio](README.md)
+* [Flashy docs](README.md)
